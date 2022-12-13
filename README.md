@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm Stephan. I'm a software engineer, working at GitHub on [CodeQL](https://codeql.github.com).
+I'm a software engineer, working at GitHub, on [CodeQL](https://codeql.github.com). CodeQL is a query language for code analysis. It's used to find security vulnerabilities in code.
+
+### More about me
+
+[kaeluka.github.io](https://kaeluka.github.io)
 
 📫 How to reach me:
 ----
