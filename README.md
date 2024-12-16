@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer, working at GitHub, on CodeQL Autofix. CodeQL is a query language for code analysis. It's used to find security vulnerabilities and problems in code. Autofix fixes those vulnerabilities and problems using AI.
+I'm a software engineer, working at GitHub, on [CodeQL Autofix](https://github.blog/changelog/2024-08-14-copilot-autofix-for-codeql-code-scanning-alerts-is-now-generally-available/). CodeQL is a query language for code analysis. It's used to find security vulnerabilities and problems in code. Autofix fixes those vulnerabilities and problems using AI.
 
 ### More about me
 
